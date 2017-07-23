@@ -2,10 +2,10 @@
 <Properties>
   <View=0,73,1551,1202,0.564477,0,33>
   <Grid=10,10,1>
-  <DataSet=Q_EllipticTypeB.dat>
-  <DataDisplay=Q_EllipticTypeB.dpl>
+  <DataSet=INDQ_CAPQ.dat>
+  <DataDisplay=INDQ_CAPQ.dpl>
   <OpenDisplay=0>
-  <Script=Q_EllipticTypeB.m>
+  <Script=INDQ_CAPQ.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
