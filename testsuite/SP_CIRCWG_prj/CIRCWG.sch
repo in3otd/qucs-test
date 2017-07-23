@@ -2,10 +2,10 @@
 <Properties>
   <View=0,-70,1654,1028,0.513158,0,13>
   <Grid=10,10,1>
-  <DataSet=SP_CIRWG.dat>
-  <DataDisplay=CW.dpl>
+  <DataSet=CIRCWG.dat>
+  <DataDisplay=CIRCWG.dpl>
   <OpenDisplay=0>
-  <Script=CW.m>
+  <Script=CIRCWG.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
